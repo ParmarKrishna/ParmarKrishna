@@ -4,8 +4,7 @@
 <p>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg height='30' weight='30'/>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg height='30' weight='30'/>
-<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/django.svg height='30' weight='30'/>
-<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/flask.svg height='30' weight='30'/>
+<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/djangoproject.svg height='30' weight='30'/>
 </p>
 
 
