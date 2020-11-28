@@ -7,3 +7,5 @@
     <li> Web-Development </li>
   </ul>
 </p>
+<p align='center' color='blue'> Connect with me </p>
+<img src='https://instagram.com'>
