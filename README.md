@@ -26,4 +26,4 @@
 <a href = https://www.linkedin.com/in/parmark-326111 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/><a href = https://github.com/ParmarKrishna target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 </p>
  
- <p> Update : Will make repository for django soon </p>
+ <p> Update : Will make repository for django project soon </p>
