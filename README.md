@@ -1,11 +1,12 @@
 <h1 align='center'> Hi there!! , Krishna Parmar Here! 🙋‍♂️ </h1>
 <p align='center'> A enthusiastic learner 🎇 </p>
 <h2> Currently Learning </h2>
+<p>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg height='30' weight='30'/>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg height='30' weight='30'/>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/django.svg height='30' weight='30'/>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/flask.svg height='30' weight='30'/>
-
+</p>
 
 
 
