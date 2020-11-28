@@ -7,5 +7,5 @@
     <li> Web-Development </li>
   </ul>
 </p>
-<p align='center' color='blue'> Connect with me </p>
-<img src='https://instagram.com'>
+<a href = https://github.com/ParmarKrishna target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
+<a href = https://github.com/ParmarKrishna target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a
