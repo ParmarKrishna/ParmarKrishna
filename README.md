@@ -7,5 +7,6 @@
     <li> Web-Development </li>
   </ul>
 </p>
+<h3> Connect with me!! </h3>
 <a href = https://github.com/ParmarKrishna target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href = https://instagram.com/_parmark target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a
