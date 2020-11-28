@@ -1,5 +1,5 @@
 <h1 align='center'> Hi there!! , Krishna Parmar Here! 🙋‍♂️ </h1>
-<p align='center'> A enthusiastic learner 🎇 </p>
+<p align='center'> A enthusiastic learner 🎇 Currently working on djnago projects and Learning React JS with deep interest. Inquisitive about Competitive Coding and Data Structures and Algorithms. Trying to put out new ideas in form of projects. Likes to make repositories for little little codes which may help😃.</p>
 <h2 align='center'> Languages I know </h2>
 <p align='center'>
 <img src=https://github.com/isocpp/logos/blob/master/cpp_logo.svg height='50' weight='50'/>
@@ -8,7 +8,7 @@
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg height='50' weight='50'/>
  <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg height='50'  weight='50'/> 
 </p>
-<h3 align='center'> Currently Learning </h3>
+<h3 align='center'> Currently Learning With Deep Interest </h3>
 <p align='center'>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/djangoproject.svg height='40' weight='40'/>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg height='40' weight='40'/>
@@ -25,3 +25,5 @@
 <a href = https://twitter.com/@_parmark target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a> 
 <a href = https://www.linkedin.com/in/parmark-326111 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/><a href = https://github.com/ParmarKrishna target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 </p>
+ 
+ <p> Update : Will make repository for django soon </p>
