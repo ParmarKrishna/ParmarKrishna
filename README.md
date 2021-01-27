@@ -25,3 +25,4 @@
 <a href = https://twitter.com/@_parmark target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a> 
 <a href = https://www.linkedin.com/in/parmark-326111 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/><a href = https://github.com/ParmarKrishna target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 </p>
+ ![Krishna Parmar's Status](https://github-readme-stats.vercel.app/api?username=ParmarKrishna&show_icons=true&theme=radical)
