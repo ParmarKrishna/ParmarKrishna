@@ -1,18 +1,42 @@
-<h1 align='center'> Hi there!! , Krishna Parmar Here! 🙋‍♂️ </h1>
-<p align='center'> A enthusiastic learner 🎇 Currently working on djnago projects. Inquisitive about Competitive Coding and Data Structures and Algorithms. Trying to put out new ideas in form of projects. Likes to make repositories for little little codes which may help😃.</p>
-<h2 align='center'>Languages , Tools and Technologies I know and Improving </h2>
-<p align='center'>
-<img src=https://github.com/isocpp/logos/blob/master/cpp_logo.svg height='50' weight='50'/>
-<img src=https://camo.githubusercontent.com/6cc41155e58a4eebe7353d524da5ebb0de7aaf4fd4ad45fb9a433c8b41d38c16/68747470733a2f2f747365332e6d6d2e62696e672e6e65742f74683f69643d4f49502e7276756a594b4f546d2d2d5654334b545a775633786748614861267069643d417069 height='50' weight='50'/>
- <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg height='50' weight='50'/>
- <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg height='50' weight='50'/>
- <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg height='50'  weight='50'/> 
- <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/djangoproject.svg height='50' weight='50'/>
-</p>
-<h4 align='center'> Connect with me!! </h4>
-<p align='center'>
-<a href = https://instagram.com/_parmark target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a> 
-<a href = https://twitter.com/@_parmark target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a> 
-<a href = https://www.linkedin.com/in/parmark-326111 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/><a href = https://github.com/ParmarKrishna target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-</p>
 
+![GitHub followers](https://img.shields.io/github/followers/ParmarKrishna?style=plastic&color=magenta)
+![GitHub User's stars](https://img.shields.io/github/stars/ParmarKrishna?style=plastic&color=magenta)
+![Profile Views](https://komarev.com/ghpvc/?username=parmarkrishna&color=ff00ff&style=plastic)
+
+### I am Krishna Parmar
+### Enthusiastic Coder and Creative Designer
+
+
+</br>
+<a href="https://www.linkedin.com/in/parmar-krishna/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/_parmark/"><img src="https://img.shields.io/badge/blackknight47_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=201901155@daiict.ac.in&tf=cm"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+## Languages and Tools:
+### Comfortable with
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+
+### Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</br>
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parmarkrishna&layout=compact&hide=c%23,jupyter%20notebook&theme=nightowl)](https://github.com/ParmarKrishna)
+<img src="https://c.tenor.com/PRN-EHOCuHwAAAAC/the-it-crowd-moss-the-it-crowd.gif" height="200">
+
+Some Stats:  
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=parmarkrishna&theme=nightowl&show_icons=true)
+
+currently working on :  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KRUTARTH6774&repo=MovieCafe&theme=nightowl)](https://github.com/KRUTARTH6774/MovieCafe)
