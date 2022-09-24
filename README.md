@@ -9,7 +9,7 @@
 
 </br>
 <a href="https://www.linkedin.com/in/parmar-krishna/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/_parmark/"><img src="https://img.shields.io/badge/blackknight47_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/_parmark/"><img src="https://img.shields.io/badge/_parmark-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=201901155@daiict.ac.in&tf=cm"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## Languages and Tools:
